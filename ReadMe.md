@@ -1,10 +1,16 @@
 ## Market Research and Analysis
-### using web-crawling and sentiment analysis
-#
+
 The module was made with the intention to automate the process of equity analysis and market fundamentals from public data and analyze sentiments.
 
 ![Market Research](https://wp.disruptiveadvertising.com/wp-content/uploads/2018/10/market-research-blog.jpg)
 
+
+#### Processes involved
+  - Data preparation and storing
+  - Data modulation and preparing datasets
+  - Analysing dataset with sentiment analysis
+
+#
 
 #### Steps to be followed
 1.  ```console
